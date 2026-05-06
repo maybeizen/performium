@@ -1,3 +1,13 @@
+# ⚠️ Important Notice
+**I, unfortunately, have decided to archive Performium.** This is a personal choice of mine and I've basically lost all motivation to work on this project as a whole. Also, with the fact that I just left Membercat Studios and have brought the project with me, I feel like now would be a good time to say goodbye and halt all updates.
+
+If you're looking for alternative projects to use, I recommend the following:
+- [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
+- [Addivtive](https://modrinth.com/modpack/additive)
+- [Remarkably Optimized](https://modrinth.com/modpack/remarkably)
+
+---
+
 # Performium
 
 A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements..
