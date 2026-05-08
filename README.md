@@ -6,6 +6,11 @@ If you're looking for alternative projects to use, I recommend the following:
 - [Addivtive](https://modrinth.com/modpack/additive)
 - [Remarkably Optimized](https://modrinth.com/modpack/remarkably)
 
+# Licensing
+You are free to use Performium as a base for your own modpack, continue developing it as part of a new project, or use the name in your content without needing my permission. The original ARR license is no longer binding.
+
+TL;DR: Do whatever you want with the files.
+
 ---
 
 # Performium
