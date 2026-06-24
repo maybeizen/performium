@@ -61,5 +61,4 @@ v[ModpackVersion]-[Stage]+[Build]
 
 ## Support & Community
 - Bug reports & suggestions: **GitHub Issues**
-- Community & updates: **[Discord](https://discord.membercat.com)**
 - Contact: `me@maybeizen.space`
