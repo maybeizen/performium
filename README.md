@@ -1,18 +1,3 @@
-# ⚠️ Important Notice
-**I, unfortunately, have decided to archive Performium.** This is a personal choice of mine and I've basically lost all motivation to work on this project as a whole. Also, with the fact that I just left Membercat Studios and have brought the project with me, I feel like now would be a good time to say goodbye and halt all updates.
-
-If you're looking for alternative projects to use, I recommend the following:
-- [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
-- [Addivtive](https://modrinth.com/modpack/additive)
-- [Remarkably Optimized](https://modrinth.com/modpack/remarkably)
-
-# Licensing
-You are free to use Performium as a base for your own modpack, continue developing it as part of a new project, or use the name in your content without needing my permission. The original ARR license is no longer binding.
-
-TL;DR: Do whatever you want with the files.
-
----
-
 # Performium
 
 A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements..
@@ -32,7 +17,7 @@ A lightweight, performance-focused Fabric modpack designed to enhance Minecraft 
 - **Enhanced Visuals** – Connected textures, refined models, and optional shaders  
 - **Optimized Gameplay** – Smooth controls and performance-oriented tweaks  
 - **Minimalist Design** – Lean mod selection for stability and efficiency  
-- **Broad Compatibility** – Supports **Minecraft 1.20.4 – 1.21.X+**
+- **Broad Compatibility** – Supports **Minecraft 1.20.4 – 26.X+**
 
 Tested and used with:
 - Windows
