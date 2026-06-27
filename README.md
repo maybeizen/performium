@@ -1,6 +1,8 @@
 # Performium
 
-A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements..
+A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements.
+
+<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
 
 > This repository contains **configuration files, manifests, and issue tracking** for the Performium modpack.  
 > **No mod JARs are distributed here.**
