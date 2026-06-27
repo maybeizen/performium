@@ -60,5 +60,5 @@ v[ModpackVersion]-[Stage]+[Build]
 - **Build** → Incremental build number
 
 ## Support & Community
-- Bug reports & suggestions: **GitHub Issues**
-- Contact: `me@maybeizen.space`
+- Support: [Discord](https://discord.gg/xzh5YZCwJP)
+- Bug reports: Open a Github Issue
